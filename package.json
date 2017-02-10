@@ -16,7 +16,7 @@
   "author": "chrisvy@126.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chrisvy/tabs.git"
+    "url": "git@github.com:chrisvy/tabs.git"
   },
   "bugs": {
     "url": "http://github.com/react-component/tabs/issues"
@@ -54,6 +54,8 @@
   "dependencies": {
     "babel-runtime": "6.x",
     "classnames": "2.x",
-    "react-hammerjs": "~0.5.0"
+    "file-loader": "^0.10.0",
+    "react-hammerjs": "~0.5.0",
+    "react-tap-event-plugin": "^2.0.1"
   }
 }
