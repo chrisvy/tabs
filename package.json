@@ -1,7 +1,7 @@
 {
-  "name": "rc-tabs",
-  "version": "7.1.1",
-  "description": "tabs ui component for react",
+  "name": "chrisvy-tabs",
+  "version": "0.0.1",
+  "description": "tabs ui component for react based on rc-tabs",
   "keywords": [
     "react",
     "react-component",
@@ -12,11 +12,11 @@
     "assets/*.css"
   ],
   "main": "./lib/index",
-  "homepage": "http://github.com/react-component/tabs",
-  "author": "yiminghe@gmail.com",
+  "homepage": "https://github.com/chrisvy/tabs",
+  "author": "chrisvy@126.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/tabs.git"
+    "url": "https://github.com/chrisvy/tabs.git"
   },
   "bugs": {
     "url": "http://github.com/react-component/tabs/issues"
