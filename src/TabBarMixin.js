@@ -70,6 +70,7 @@ export default {
         onKeyDown={onKeyDown}
         style={style}
       >
+        {contents}
         {extraContent ?
           (<div
             style={tabBarExtraContentStyle}
@@ -77,7 +78,6 @@ export default {
           >
             {extraContent}
           </div>) : null}
-        {contents}
       </div>);
   },
 };
